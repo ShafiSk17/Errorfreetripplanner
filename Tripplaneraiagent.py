@@ -1,6 +1,7 @@
 # main.py
 import streamlit as st
 import os
+import sqlite3
 from crewai import Crew, Process, Agent, Task
 from langchain_core.callbacks import BaseCallbackHandler
 from typing import Any, Dict
