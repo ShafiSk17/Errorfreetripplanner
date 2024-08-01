@@ -4,3 +4,4 @@ langchain
 crew
 crewai
 langchain_community
+sqlite3
