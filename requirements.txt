@@ -2,6 +2,4 @@ streamlit
 openai
 langchain
 crew
-crewai
-langchain_community
 sqlite3 >= 3.35.0
